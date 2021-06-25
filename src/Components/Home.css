@@ -1,0 +1,31 @@
+.home{
+    padding: 1rem;
+    /* position: sticky; */
+    /* position: fixed; */
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* position: relative; */
+    background-color: #000000d1;
+    z-index: 999;
+}
+/* .conetnt{
+  margin-top: 30px;
+} */
+
+#searchBox {
+    align-items: center;
+    justify-content: center;
+  }
+
+#searchBar {
+    padding: 5px;
+    border: solid 1px blue;
+    border-radius: 10px;
+    outline: none;
+    line-height: 30px;
+  }  

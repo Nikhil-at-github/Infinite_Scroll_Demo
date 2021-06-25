@@ -1,0 +1,22 @@
+#title {
+  font-size: x-large;
+  font-weight: bolder;
+  text-transform: capitalize;
+  color: cyan;
+  text-shadow: 3px 2px #4d6e6a;
+}
+
+.container {
+  margin-top: 50px;
+  /* max-height: 92vh;
+  overflow: scroll; */
+}
+.postList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#body {
+  font-size: larger;
+  color: whitesmoke;
+}
